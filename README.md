@@ -4,11 +4,11 @@ Dataset -- https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
 
 # Predciting the probability whether a space object will collide with Earth or not given the following features
 
-   1> Minimum Estimated Diameter in Kilometres
-   2> Maximum Estimated Diameter in Kilometres
-   3> Velocity Relative to Earth
-   4> Distance in Kilometres missed
-   5>Describes intrinsic luminosity
+   1. Minimum Estimated Diameter in Kilometres
+   2. Maximum Estimated Diameter in Kilometres
+   3. Velocity Relative to Earth
+   4. Distance in Kilometres missed
+   5. Describes intrinsic luminosity
 
 ## We have used a Random Forest Classifier to predict. The test metrics are as follows -
    1>Accuracy =  0.9202994275649493,
